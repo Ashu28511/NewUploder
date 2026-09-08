@@ -7,8 +7,8 @@ API_ID = int(os.environ.get("API_ID", "27546285"))
 API_HASH = os.environ.get("API_HASH", "1e2ed781a12e40459d7657f8be1e988b")
 BOT_TOKEN = os.environ.get("BOT_TOKEN", "8803482223:AAGOShAsLN8H2Z6uT8uoIQHhBaffISrfVEc")
 
-OWNER = int(environ.get("OWNER", ""))
-CREDIT = environ.get("CREDIT", "")
+OWNER = int(environ.get("OWNER", "0"))
+CREDIT = environ.get("CREDIT", "cpbot")
 
 TOTAL_USER = os.environ.get('TOTAL_USERS', '').split(',')
 TOTAL_USERS = [int(user_id) for user_id in TOTAL_USER]
