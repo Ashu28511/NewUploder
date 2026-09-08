@@ -46,8 +46,8 @@
 
 ## 🤖 Bot Usernames
 
-- [@saini_contact_bot](https://t.me/saini_contact_bot)
-- [@saini_file_store_bot](https://t.me/saini_file_store_bot)
+- [@saini_contact_bot](https://t.me/cpdrmup_bot)
+- [@saini_file_store_bot](https://t.me/cpdrmup_bot)
 
 ---
 
